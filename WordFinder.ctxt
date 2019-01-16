@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WordFinder
+comment0.text=\r\n\r\n\ @author\ Julia\ Krasinski\r\n
+comment1.params=
+comment1.target=WordFinder()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordFinder\r\n
+comment2.params=text\ target
+comment2.target=boolean\ contains(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ \r\n
+numComments=3
