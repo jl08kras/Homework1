@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: WordFinder
+PURPOSE OF PROJECT: This project looks at 2 words and determines if one word 
+                    emcompasses all the letters of the other word.
+VERSION or DATE: February 6, 2019
+AUTHORS: Julia Krasinski
